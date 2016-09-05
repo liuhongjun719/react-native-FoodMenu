@@ -1,19 +1,24 @@
 # FoodMenu
 React native 实现含有侧滑功能的app，用Listview展示界面，可基于此，开发其他类似侧滑app；含有下拉刷新、上拉加载功能。
 
-## Screenshot
+### Content
+- [Screenshot](#Screenshot)
+- [Step](#Step)
+- [Usage snippets](Usage snippets)
+
+### Screenshot
 ![image](https://github.com/liuhongjun719/FoodMenu/blob/master/screenshots/1.png)
 ![image](https://github.com/liuhongjun719/FoodMenu/blob/master/screenshots/3.png)
 ![image](https://github.com/liuhongjun719/FoodMenu/blob/master/screenshots/2.png)
 
 
-## Step
+### Step
 >* step1:  重启终端（以防之前打开过其他项目，会出现错误红屏界面）
 >* step2:  npm install
 >* step3:  nmp start
 
 
-### Usage  snippets
+### Usage snippets
 ```javascript
 import React from 'react';
 import {
