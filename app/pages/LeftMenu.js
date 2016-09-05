@@ -92,7 +92,16 @@ export default class HomeDetil extends Component {
     }
 }
 
-
+const normalContainer = {
+  height: 50,
+  paddingLeft: 10,
+  paddingRight: 10,
+  flexDirection: 'row',
+  justifyContent: 'space-between',
+  alignItems: 'center',
+  borderBottomColor: 'rgb(216, 222, 225)',
+  borderBottomWidth: 0.5,
+};
 
 const styles = StyleSheet.create({
     list: {
@@ -103,27 +112,11 @@ const styles = StyleSheet.create({
         backgroundColor: 'rgb(243,157,149)'
     },
     container: {
-        height: 50,
-        paddingLeft: 10,
-        paddingRight: 10,
-        flexDirection: 'row',
-        justifyContent: 'space-between',
-        alignItems: 'center',
-        // backgroundColor: 'rgb(243,245,246)',
-        borderBottomColor: 'rgb(216, 222, 225)',
-        borderBottomWidth: 0.5,
+        ...normalContainer,
         backgroundColor: 'rgb(243,157,149)'
     },
     container_selected: {
-        height: 50,
-        paddingLeft: 10,
-        paddingRight: 10,
-        flexDirection: 'row',
-        justifyContent: 'space-between',
-        alignItems: 'center',
-        // backgroundColor: 'rgb(243,245,246)',
-        borderBottomColor: 'rgb(216, 222, 225)',
-        borderBottomWidth: 0.5,
+        ...normalContainer,
         backgroundColor: 'rgb(244,189,185)'
     },
     menu_bottom_view: {
