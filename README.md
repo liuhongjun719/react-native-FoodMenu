@@ -2,9 +2,9 @@
 React native 实现含有侧滑功能的app，用Listview展示界面，可基于此，开发其他类似侧滑app；含有下拉刷新、上拉加载功能。
 
 ### Content
-- [Screenshot](#Screenshot)
-- [Step](#Step)
-- [Usage snippets](Usage snippets)
+- [Screenshot](#screenshot)
+- [Step](#step)
+- [Usage snippets](usage-snippets)
 
 ### Screenshot
 ![image](https://github.com/liuhongjun719/FoodMenu/blob/master/screenshots/1.png)
