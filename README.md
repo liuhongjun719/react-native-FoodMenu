@@ -4,7 +4,7 @@ React native 实现含有侧滑功能的app，用Listview展示界面，可基�
 ### Content
 - [Screenshot](#screenshot)
 - [Step](#step)
-- [Usage snippets](usage-snippets)
+- [Usage snippets](#usage-snippets)
 
 ### Screenshot
 ![image](https://github.com/liuhongjun719/FoodMenu/blob/master/screenshots/1.png)
