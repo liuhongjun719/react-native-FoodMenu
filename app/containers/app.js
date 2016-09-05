@@ -103,6 +103,7 @@ class Application extends React.Component {
        isOpen = {this.state.isOpen}
        openMenuOffset = {Common.window.width-100}
        edgeHitWidth = {300}
+       menuPosition = {'left'}//或 'right'
        >
         <App/>
       </SideMenu>
