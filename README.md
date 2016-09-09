@@ -133,3 +133,9 @@ class Application extends React.Component {
 
 export default Application;
 ```
+
+
+## Relevant Projects of React Native
+
+* [`月子食谱App`](https://github.com/liuhongjun719/react-native-FoodMenu) 界面侧滑
+* [`贷贷助手App`](https://github.com/liuhongjun719/react-native-DaidaiHelperNew) 比较完整的项目
